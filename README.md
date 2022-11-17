@@ -1,1 +1,1 @@
-# GEWMA-Quantile-Model
+# GEWMA-Quantile-Model: The PDF file "Supplement" contains the addtional simulations for the paper entitled "A new generalized exponentially weighted moving average quantile model and its statistical inference"; 
